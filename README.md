@@ -4,6 +4,9 @@ AI and ML for Apple tree Monitoring
 # Installation:
 !pip install tensorflow
 
+!pip install torch torchvision
+
+
 https://github.com/spMohanty/PlantVillage-Dataset
 
 # create_dataset.py
